@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bonfeb (Stephen Mwachiro)
+# Hi there 👋, I'm Stephen Mwachiro
 
 Software Developer | Aspiring Data Engineer  
 
