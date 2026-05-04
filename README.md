@@ -62,7 +62,7 @@ I enjoy working with data, building systems and solving real-world problems thro
 
 I am currently building my expertise in  
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)  
-through hands-on projects and structured learning at LuXDevHQ.
+through hands-on projects and structured learning at LuxDevHQ.
 
 #### Core Focus Areas
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6DB33F?style=for-the-badge&logo=apacheairflow&logoColor=white)
