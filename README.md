@@ -105,5 +105,4 @@ Here are some things I'm working on or planning:
 
 - LinkedIn: https://www.linkedin.com/in/stephen-mwachiro/
 - Email: bonfebdevs@gmail.com
-- X: https://www.x.com/Bonfeb_
 
